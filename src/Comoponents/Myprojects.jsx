@@ -28,12 +28,16 @@ const Myprojects = () => {
             <div className="card-actions">
               <a
                 href="https://gigjunction-f7c2d.web.app/"
+                target="_blank"
+                rel="noreferrer"
                 className="flex items-center gap-2 bg-black px-2 py-1 rounded-lg"
               >
                 Website
                 <GoArrowUpRight />
               </a>
               <a
+                target="_blank"
+                rel="noreferrer"
                 href="https://github.com/reZerOR/Gig-junction"
                 className="flex items-center gap-2 bg-black px-2 py-1 rounded-lg"
               >
@@ -59,6 +63,8 @@ const Myprojects = () => {
             </p>
             <div className="card-actions ">
               <a
+                target="_blank"
+                rel="noreferrer"
                 href="https://datadump-4f599.web.app/"
                 className="flex items-center gap-2 bg-black px-2 py-1 rounded-lg"
               >
@@ -66,6 +72,8 @@ const Myprojects = () => {
                 <GoArrowUpRight />
               </a>
               <a
+                target="_blank"
+                rel="noreferrer"
                 href="https://github.com/reZerOR/DataDump"
                 className="flex items-center gap-2 bg-black px-2 py-1 rounded-lg"
               >
@@ -91,6 +99,8 @@ const Myprojects = () => {
             <div className="card-actions">
               <a
                 href="https://brand-shop-4f7f6.web.app/"
+                target="_blank"
+                rel="noreferrer"
                 className="flex items-center gap-2 bg-black px-2 py-1 rounded-lg"
               >
                 Website
@@ -98,6 +108,8 @@ const Myprojects = () => {
               </a>
               <a
                 href="https://github.com/reZerOR/Techify-shop"
+                target="_blank"
+                rel="noreferrer"
                 className="flex items-center gap-2 bg-black px-2 py-1 rounded-lg"
               >
                 Github
