@@ -12,7 +12,12 @@ import { SiExpress, SiMongodb, SiTailwindcss } from "react-icons/si";
 const Skills = () => {
   return (
     <div>
-      <h2 className="text-7xl uppercase font-bold mt-10 text-center">Skills</h2>
+      <h2
+        className="text-7xl uppercase font-bold mt-10 text-center"
+        data-aos="fade-down"
+      >
+        Skills
+      </h2>
       <Marquee className="container mx-auto my-20">
         <div>
           <IoLogoJavascript className="text-8xl mx-5 md:mx-20 text-[#F0DB4F]" />
