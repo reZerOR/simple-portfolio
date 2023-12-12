@@ -6,7 +6,7 @@ const Myprojects = () => {
   return (
     <div>
       <h2
-        className="text-7xl uppercase font-bold mt-10 text-center"
+        className="text-5xl uppercase font-bold mt-56 text-center"
         data-aos="fade-down"
       >
         Projects

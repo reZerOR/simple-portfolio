@@ -1,5 +1,6 @@
 import "./App.css";
 import Banner from "./Comoponents/Banner";
+import Contectme from "./Comoponents/Contectme";
 import Education from "./Comoponents/Education";
 import Experienc from "./Comoponents/Experienc";
 import Footer from "./Comoponents/Footer";
@@ -14,6 +15,7 @@ function App() {
       <Experienc></Experienc>
       <Myprojects></Myprojects>
       <Education></Education>
+      <Contectme></Contectme>
       <Footer></Footer>
     </>
   );
